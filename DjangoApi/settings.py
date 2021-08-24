@@ -88,10 +88,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'djongo',
         'CLIENT': {
-            "host": "mongodb+srv://margarita_sing:ange09lina08.@cluster0.m307z.mongodb.net/instituto?retryWrites=true&w=majority",
-        #    "name": "mytestdb",
-        #    "authMechanism": "SCRAM-SHA-1", #NECSARIO PARA ATLAS CLOUD
-        }
+            "host": "mongodb+srv://margaritaxxxx:xxxxxxxx@cluster0.xxxxx.mongodb.net/instituto?retryWrites=true&w=majority",
+       }
     }
 }
 
